@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1770246373|1120945655';
+const CACHE_VERSION = '1770246801|1548657961';
 /** @type {string} */
 const CACHE_PREFIX = 'Pizza's Potato P-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;

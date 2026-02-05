@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1770293923|6927806399';
+const CACHE_VERSION = '1770302507|15511561246';
 /** @type {string} */
-const CACHE_PREFIX = 'Pizza's Potato P-sw-cache-';
+const CACHE_PREFIX = 'Potato Plandoer-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';

@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1770477124|301472214';
+const CACHE_VERSION = '1770550585|4527786298';
 /** @type {string} */
 const CACHE_PREFIX = 'Potato Plandoer-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
